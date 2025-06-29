@@ -1,0 +1,2 @@
+# EduQuiz
+Basic quiz application
